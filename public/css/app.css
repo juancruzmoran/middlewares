@@ -13,6 +13,9 @@ body {
   padding: 50px;
   text-align: center;
 }
+.title-admin {
+  padding: 100px;
+}
 .header {
   display: flex;
   height: 50px;
@@ -20,6 +23,10 @@ body {
 }
 .header-nav {
   padding-left: 22%;
+}
+@keyframes ejemplo {
+  from {background-color: red;}
+  to {background-color: yellow;}
 }
 .header nav ul {
   margin-left: 2200px;
